@@ -16,6 +16,33 @@
 -->
 <wallpapers>
 
+    <category id="euclid" title="@string/category_euclid" featured="euclid_g">
+
+        <static-wallpaper
+            id="euclid_a"
+            src="@drawable/euclid_a"
+            title="@string/wallpaper_euclid_a"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_b"
+            src="@drawable/euclid_b"
+            title="@string/wallpaper_euclid_b"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_c"
+            src="@drawable/euclid_c"
+            title="@string/wallpaper_euclid_c"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_d"
+            src="@drawable/euclid_d"
+            title="@string/wallpaper_euclid_d"
+            subtitle1="@string/author_jetbrains" />
+        </category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper
