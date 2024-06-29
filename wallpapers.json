@@ -1,4 +1,13 @@
 {
+    "Default": {
+		"author": "Rhelvetican",
+		"featured": "default_wallpaper",
+		"wallpapers": {
+            "Default Wallpaper": {
+				"1": ""
+			}
+        }
+    },
     "euclidOS": {
 		"author": "Mrick343",
 		"featured": "euclid_g",
