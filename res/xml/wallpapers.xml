@@ -46,11 +46,6 @@
             title="@string/wallpaper_euclid_c"
             subtitle1="@string/author_jetbrains" />
 
-        <static-wallpaper
-            id="euclid_d"
-            src="@drawable/euclid_d"
-            title="@string/wallpaper_euclid_d"
-            subtitle1="@string/author_jetbrains" />
         </category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
