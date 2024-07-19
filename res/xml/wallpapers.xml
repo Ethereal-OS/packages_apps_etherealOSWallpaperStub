@@ -46,6 +46,78 @@
             title="@string/wallpaper_euclid_c"
             subtitle1="@string/author_jetbrains" />
 
+        <static-wallpaper
+            id="euclid_d"
+            src="@drawable/euclid_d"
+            title="@string/wallpaper_euclid_d"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_e"
+            src="@drawable/euclid_e"
+            title="@string/wallpaper_euclid_e"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_f"
+            src="@drawable/euclid_f"
+            title="@string/wallpaper_euclid_f"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_g"
+            src="@drawable/euclid_g"
+            title="@string/wallpaper_euclid_g"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_h"
+            src="@drawable/euclid_h"
+            title="@string/wallpaper_euclid_h"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_i"
+            src="@drawable/euclid_i"
+            title="@string/wallpaper_euclid_i"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_j"
+            src="@drawable/euclid_j"
+            title="@string/wallpaper_euclid_j"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_k"
+            src="@drawable/euclid_k"
+            title="@string/wallpaper_euclid_k"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_l"
+            src="@drawable/euclid_l"
+            title="@string/wallpaper_euclid_l"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_m"
+            src="@drawable/euclid_m"
+            title="@string/wallpaper_euclid_m"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_n"
+            src="@drawable/euclid_n"
+            title="@string/wallpaper_euclid_n"
+            subtitle1="@string/author_jetbrains" />
+
+        <static-wallpaper
+            id="euclid_o"
+            src="@drawable/euclid_o"
+            title="@string/wallpaper_euclid_o"
+            subtitle1="@string/author_jetbrains" />
+
         </category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
