@@ -10,7 +10,7 @@
     },
     "euclidOS": {
 		"author": "Mrick343",
-		"featured": "euclid_g",
+		"featured": "euclid_i",
 		"wallpapers": {
 			"euclidOS Exclusive 1": {
 				"1": ""
@@ -56,9 +56,9 @@
 			},
 			"euclidOS Exclusive 15": {
 				"1": ""
-			},
+			}
         }
-    }
+    },
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",
