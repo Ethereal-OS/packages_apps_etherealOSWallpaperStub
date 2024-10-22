@@ -26,96 +26,96 @@
 
         </category>
 
-    <category id="euclid" title="@string/category_euclid" featured="euclid_g">
+    <category id="ethereal" title="@string/category_ethereal" featured="ethereal_g">
 
         <static-wallpaper
-            id="euclid_a"
-            src="@drawable/euclid_a"
-            title="@string/wallpaper_euclid_a"
+            id="ethereal_a"
+            src="@drawable/ethereal_a"
+            title="@string/wallpaper_ethereal_a"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_b"
-            src="@drawable/euclid_b"
-            title="@string/wallpaper_euclid_b"
+            id="ethereal_b"
+            src="@drawable/ethereal_b"
+            title="@string/wallpaper_ethereal_b"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_c"
-            src="@drawable/euclid_c"
-            title="@string/wallpaper_euclid_c"
+            id="ethereal_c"
+            src="@drawable/ethereal_c"
+            title="@string/wallpaper_ethereal_c"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_d"
-            src="@drawable/euclid_d"
-            title="@string/wallpaper_euclid_d"
+            id="ethereal_d"
+            src="@drawable/ethereal_d"
+            title="@string/wallpaper_ethereal_d"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_e"
-            src="@drawable/euclid_e"
-            title="@string/wallpaper_euclid_e"
+            id="ethereal_e"
+            src="@drawable/ethereal_e"
+            title="@string/wallpaper_ethereal_e"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_f"
-            src="@drawable/euclid_f"
-            title="@string/wallpaper_euclid_f"
+            id="ethereal_f"
+            src="@drawable/ethereal_f"
+            title="@string/wallpaper_ethereal_f"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_g"
-            src="@drawable/euclid_g"
-            title="@string/wallpaper_euclid_g"
+            id="ethereal_g"
+            src="@drawable/ethereal_g"
+            title="@string/wallpaper_ethereal_g"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_h"
-            src="@drawable/euclid_h"
-            title="@string/wallpaper_euclid_h"
+            id="ethereal_h"
+            src="@drawable/ethereal_h"
+            title="@string/wallpaper_ethereal_h"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_i"
-            src="@drawable/euclid_i"
-            title="@string/wallpaper_euclid_i"
+            id="ethereal_i"
+            src="@drawable/ethereal_i"
+            title="@string/wallpaper_ethereal_i"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_j"
-            src="@drawable/euclid_j"
-            title="@string/wallpaper_euclid_j"
+            id="ethereal_j"
+            src="@drawable/ethereal_j"
+            title="@string/wallpaper_ethereal_j"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_k"
-            src="@drawable/euclid_k"
-            title="@string/wallpaper_euclid_k"
+            id="ethereal_k"
+            src="@drawable/ethereal_k"
+            title="@string/wallpaper_ethereal_k"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_l"
-            src="@drawable/euclid_l"
-            title="@string/wallpaper_euclid_l"
+            id="ethereal_l"
+            src="@drawable/ethereal_l"
+            title="@string/wallpaper_ethereal_l"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_m"
-            src="@drawable/euclid_m"
-            title="@string/wallpaper_euclid_m"
+            id="ethereal_m"
+            src="@drawable/ethereal_m"
+            title="@string/wallpaper_ethereal_m"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_n"
-            src="@drawable/euclid_n"
-            title="@string/wallpaper_euclid_n"
+            id="ethereal_n"
+            src="@drawable/ethereal_n"
+            title="@string/wallpaper_ethereal_n"
             subtitle1="@string/author_jetbrains" />
 
         <static-wallpaper
-            id="euclid_o"
-            src="@drawable/euclid_o"
-            title="@string/wallpaper_euclid_o"
+            id="ethereal_o"
+            src="@drawable/ethereal_o"
+            title="@string/wallpaper_ethereal_o"
             subtitle1="@string/author_jetbrains" />
 
         </category>
